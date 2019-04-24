@@ -1,1 +1,3 @@
-alert("hello");
+function showMessage(){
+    alert('Xin chào!');
+};
